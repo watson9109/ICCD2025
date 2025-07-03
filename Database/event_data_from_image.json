@@ -1,0 +1,18 @@
+{
+  "event_name": "特別展 ディープ・スペース Deep Space To the Moon and Beyond",
+  "event_date_start": "2025-07-12T10:00:00",
+  "event_date_end": "2025-09-28T17:00:00",
+  "location": "日本科学未来館 (東京・お台場)",
+  "organizer": "日本科学未来館, NHK, NHKプロモーション, 東京新聞",
+  "target_audience": "一般（3歳以下無料、障がい者およびその付添1名無料）",
+  "summary": "人類はどこへ向かうのか、見たことのない宇宙の驚異の姿をテーマにした特別展。深宇宙の探求と月への旅を通じて、未来の宇宙像を体験できます。",
+  "source_type": "image",
+  "source_data": "event_flyer.jpg",
+  "tags": [
+    "#特別展",
+    "#宇宙",
+    "#科学",
+    "#未来館",
+    "#展示会"
+  ]
+}
